@@ -1,3 +1,4 @@
+[日本語](/README_ja.md)
 # DMX_USB_Simple
 A simple solution for sending DMX signal via USB with Arduino and Max. Works as ENTTEC DMXUSBPRO but only for outputs.
 Focused on easiness + cheapness, not for stability or robustness.
